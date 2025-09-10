@@ -1,4 +1,5 @@
 AliExpress Product Processing Pipeline
+
 **Overview**
 This is a Python script designed to search, filter, and rank products from AliExpress based on a search query in Hebrew. The system translates the query to English, filters the results using AI to find the most relevant products, and returns an organized list of product data, including detailed information and shortened links.
 
@@ -12,3 +13,4 @@ Key Process Steps:
 Return Data: Returns a clean list of products in JSON format.
 
 <img width="350" height="763" alt="image" src="https://github.com/user-attachments/assets/5008cf3d-0b3a-4f00-9ce8-d03e46ddef95" />
+
