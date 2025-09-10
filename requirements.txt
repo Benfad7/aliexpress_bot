@@ -1,0 +1,8 @@
+flask
+pandas
+requests
+Pillow
+google-genai
+tabulate
+python-telegram-bot
+gunicorn
